@@ -1,4 +1,4 @@
-import brython from 'https://cdn.jsdelivr.net/npm/brython@3.13.2/+esm';
+import 'https://cdn.jsdelivr.net/npm/brython@3.13.2/+esm';
 
 // Initialize Brython runtime
 brython({
